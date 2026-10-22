@@ -14,13 +14,12 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes badge" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge" />
 </div>
 
 <p align="center">
   <a href="https://github.com/Jyothisj14">GitHub</a> ·
   <a href="https://www.linkedin.com/in/jyothi-s-jayanna-bba04a199/">LinkedIn</a> ·
-  <a href="https://mariabrio.vercel.app/">Portfolio</a>
+  <a href="https://jyothisj14.github.io/my-portfolio/#">Portfolio</a>
 </p>
 
 ---
